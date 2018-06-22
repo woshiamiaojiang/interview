@@ -1,3 +1,5 @@
+你好。我叫XX。之前在上海微创BPO部门做过三年Java开发。
+
 1、开发中Java用了比较多的数据结构有哪些？（待补充arraylist,treemap）
 ArrayList。HashMap。
 
